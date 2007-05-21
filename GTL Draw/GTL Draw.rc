@@ -218,13 +218,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "TODO: <Company name>"
-            VALUE "FileDescription", "TODO: <File description>"
+            VALUE "CompanyName", "ELTE-IK"
+            VALUE "FileDescription", "GTL Draw.exe"
             VALUE "FileVersion", "1.0.0.1"
             VALUE "InternalName", "GTL Draw.exe"
-            VALUE "LegalCopyright", "TODO: (c) <Company name>.  All rights reserved."
+            VALUE "LegalCopyright", "GPL"
             VALUE "OriginalFilename", "GTL Draw.exe"
-            VALUE "ProductName", "TODO: <Product name>"
+            VALUE "ProductName", "GTL Draw"
             VALUE "ProductVersion", "1.0.0.1"
         END
     END
